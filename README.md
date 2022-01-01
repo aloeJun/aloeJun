@@ -12,11 +12,11 @@
 - ⚡ Fun fact:  Music, Video games , Tinkering with ...
 
 
-| <a href="https://github.com/ialoe/hexo-themes-islu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ialoe/hexo-themes-matery-pro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 #### Top Repositories
 
-<a href="https://github.com/ialoe/hexo-themes-islu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialoe&repo=hexo-themes-islu&theme=buefy" />
+<a href="https://github.com/ialoe/hexo-themes-matery-pro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialoe&repo=hexo-themes-matery-pro&theme=buefy" />
 </a>
