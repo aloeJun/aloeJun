@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ialoe.github.io"><img width="80%" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://ialoe.github.io"><img width="80%" src="https://cdn.jsdelivr.net/gh/ialoe/ialoe@master/assets/header.png" /></a></p>
 
 **Hi there 👋 I'm ialoe. ✨**
 
