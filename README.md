@@ -1,6 +1,6 @@
-<p align="center"><a href="https://ialoe.github.io"><img width="80%" src="https://cdn.jsdelivr.net/gh/ialoe/ialoe@master/assets/header.png" /></a></p>
+<p align="center"><a href="https://aloeJun.github.io"><img width="80%" src="https://cdn.jsdelivr.net/gh/aloeJun/aloeJun@master/assets/header.png" /></a></p>
 
-**Hi there 👋 I'm ialoe. ✨**
+**Hi there 👋 I'm aloeJun. ✨**
 
 - 🔭 I'm at school now.
 - 🌱 I’m currently learning Java.
@@ -12,11 +12,11 @@
 - ⚡ Fun fact:  Music, Video games , Tinkering with ...
 
 
-| <a href="https://github.com/ialoe/hexo-themes-matery-pro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ialoe/hexo-themes-matery-pro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialoe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="aloeJun's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloeJun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 #### Top Repositories
 
-<a href="https://github.com/ialoe/hexo-themes-matery-pro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialoe&repo=hexo-themes-matery-pro&theme=buefy" />
+<a href="https://github.com/aloeJun/hexo-themes-matery-pro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aloeJun&repo=hexo-themes-matery-pro&theme=buefy" />
 </a>
