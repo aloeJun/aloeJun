@@ -1,5 +1,3 @@
-<p align="center"><a href="https://aloeJun.github.io"><img width="80%" src="https://cdn.jsdelivr.net/gh/aloeJun/aloeJun@master/assets/header.png" /></a></p>
-
 **Hi there 👋 I'm aloeJun. ✨**
 
 - 🔭 I'm at school now.
